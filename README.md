@@ -1,4 +1,4 @@
-Project Report: The Smart Clip
+The Smart Clip
 A Cost-Effective Solution for Detecting Low-Voltage AC Distribution Over Head
 Conductor Breakage
 1. Introduction
