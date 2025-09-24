@@ -1,0 +1,20 @@
+[
+  {
+    "device_id": "SMARTCLIP-003",
+    "lat": 12.7208,
+    "lon": 77.7126,
+    "timestamp": "2025-09-22T21:00:00Z"
+  },
+  {
+    "device_id": "SMARTCLIP-004",
+    "lat": 12.7937,
+    "lon": 77.5878,
+    "timestamp": "2025-09-22T21:30:00Z"
+  },
+  {
+    "device_id": "SMARTCLIP-003",
+    "lat": 12.7208,
+    "lon": 77.7126,
+    "timestamp": "2025-09-22T21:00:00Z"
+  }
+]
